@@ -1,0 +1,276 @@
+---
+title: "Sea Stars of British Columbia"
+author: "Carter Burtlake, Hannah Levit, Naomi Lubkin, and Joan Moreaux"
+date: "10/18/2021"
+output:
+  pdf_document:
+    includes:
+      in_header: file.tex
+---
+
+# *Pisaster ochraceus* (Ochre Star)
+
+## Description
+*Pisaster ochraceus*, known commonly as the Ochre Star, has five rays that taper towards the end and a prominent network of white spines arranged in a stellate pattern (Brietzke et *al.*, 2013). It can be purple, orange, yellow, or brown, and has a very stiff body. It is commonly confused with *Evasterias troschelii*, but can be differentiated by its large central disk and shorter, thicker rays (Harbo, 2011). This sea star can grow up to 50 cm in diameter (from the tip of one arm across to the tip of the opposite one).
+
+**Range and Habitat:** *P. ochraceus* is found from Alaska to California (US) (Brietzke et *al.*, 2013), and is very abundant on the West Coast of British Columbia. The Ochre Star is found in the mid-to-low intertidal, but can also be found subtidally to a depth of 88m (McFadden et *al.*, 2008). It prefers living on rocks or mussel beds; juveniles can also be found under rocks. The species suffered from a mass mortality event along the West Coast of North America in 2017 because of the spread of the sea star wasting disease (B.C. Coast Edition, 2018).
+
+**Trophic Role:** *P. ochraceus* is the apex predator of the intertidal, as it is rarely preyed upon. Occasionally, sea otters or seagulls may eat sea stars (Multi-Agency Rocky Intertidal Network, 2021). It is also regularly described as a keystone species as it regulates biodiversity in the intertidal zone. The species mainly feeds on mussels, but can also prey on barnacles, limpets and snails (Brietzke et *al.*, 2013). *P. ochraceus*, like many other species in the class Asteroidea, feed by everting their stomach out of their body and around their prey, to start external digestion (McFadden et *al.*, 2008). 
+
+**Reproduction:** *P. ochraceus* is said to be a “broadcast spawner”, meaning that it releases many gametes (eggs and sperm) into the water column, where fertilization occurs (Multi-Agency Rocky Intertidal Network, 2021). Spawning events typically occur in May and July in response to changes in photoperiod (McFadden et *al.*, 2008; Monaco et *al.*, 2014). The zygote develops into a free-living ciliated larva, capable of filter feeding and settling before metamorphosing into the adult. 
+
+## Questions
+1. Does the sea star have longer rays (arms), relative to their central disk?
+2. Are the rays (arms) broadest at their base and then taper off to the tip? 
+3. Are ossicles present on their aboral (top) central disk of the sea star in a stellate (star shaped) pattern?
+
+If the answer to all of these question is YES, then you have identified the *Pisaster ochraceus* (Ochre Star)!
+
+\newpage 
+
+## Figures
+
+```{r pisaster-ochraceus-anatomy, fig.align = 'left', out.width = "85%", out.height = "60%", fig.cap = "Overview of  Pisaster ochraceus' anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-morphology-anatomy.png"))
+```
+
+```{r pisaster-ochraceus-stellate-ossicles, fig.align = 'left', out.width = "45%", out.height = "30%",fig.cap = "Close up of stellate ossicle pattern in Pisaster ochraceus.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-ossicles.png"))
+```
+
+```{r pisaster-ochraceus-arms-to-disk, fig.align = 'left', out.width = "45%", out.height = "30%",fig.cap = "Comparison of disk to arm ratio for Pisaster ochraceus.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-arms.png"))
+```
+\newpage 
+\newpage 
+# *Evasterias troschelii* (Mottled Star)
+
+## Description
+*Evasterias troschelii*, known commonly as the Mottled Star, has five rays and white spines. It can be rust, brown, orange, or blue-grey. The total diameter is five to seven times the diameter of the central disk, and the arms typically have their widest point a few centimeters out from the central disk. This means the sea star can reach up to 80 cm in diameter (from the tip of one arm across to the tip of the opposite one). It is commonly confused with Pisaster ochraceus, but can be differentiated by its smaller central disk, longer and thinner arms, and less pronounced white spines that do not have a stellate pattern (McFadden et *al.*, 2008).
+
+**Range and Habitat:**
+*E. troschelii* is found from Alaska to Monterey Bay, USA. It lives on rocks and sand, and can often be found in eelgrass beds. It is found from the low intertidal to subtidal, reaching depths of 70 m. It prefers protected areas, as opposed to open coast lines (Cowles, 2005). 
+
+**Trophic Role:** *E. troschelii* eats primarily bivalves and barnacles, and also can consume tunicates, chitons, and gastropods. Like many other sea stars, *E. troschelii* digests its food externally by everting its stomach. Its primary predator is sea gulls, and other predators include other sea stars and the Alaska King Crab (Cowles, 2005). 
+
+**Reproduction:** Like other members of the class *Asteroidea*, *E. troschelii* can undergo asexual reproduction through fission as well as sexual reproduction. They reproduce sexually from April to June. Fertilization is external, and zygotes develop into bipinnaria larvae that then settle and grow into mature sea stars (Klinkenberg, 2021). 
+
+## Questions
+1. Is the sea star larger than 40 cm in length? 
+2. Does the sea star have long slender rays (arms), relative to their central disc, which are thickest shortly after the base of the ray?
+3. Does the organism have ossicles present on their surface which are arranged in a netlike or pentagonal pattern?
+
+If the answer to all of these question is YES, then you have identified the *Evasterias troschelii* (Mottled Star)!
+
+\newpage 
+
+## Figures
+
+```{r evasterias-anatomy, fig.align = 'left', out.width = "85%", out.height = "60%", fig.cap = "Overview of  Evasterias troschelii's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-anatomy.jpg"))
+```
+
+```{r evasterias-troschelii-ossicles, fig.align = 'left', out.width = "75%", out.height = "75%",fig.cap = "Close up of net-like (left) and pentagonal (right) ossicle patterns in Evasterias troschelii.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-ossicles-comparison.png"))
+```
+
+```{r evasterias-troschelii-arms-to-disk, fig.align = 'left', out.width = "40%", out.height = "20%",fig.cap = "Comparison of disk to arm ratio for Evasterias troschelii.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-arms.png"))
+```
+
+\newpage
+
+# *Patiria miniata* (Bat Star)
+
+## Description
+*Patiria miniata*, commonly known as the Bat Star, has distinctive webbed tissue between its arms. The central disk is wider than the arms are long. The organism is the smallest in diameter of the 4 analyzed, reaching up to 25cm in diameter. It typically has five or six rays, but can have anywhere between three and eight (McFadden et *al.*, 2008). Its surface is rough and granular due to its ossicles (calcareous endoskeleton) and its colour is extremely variable; it can be red, blue, yellow, green, and/or brown and can be either solidly coloured or patterned (Harbo, 2011; Fretwell, 2016). 
+
+**Range and Habitat:** *P. miniata* can be found from southern Alaska, USA to the Gulf of California, Mexico although it is not uniformly common across this gradient (Coles, 2005). It is usually found in the intertidal to the subtidal, up to 300 m depths. It commonly is round on rocks, in sand or mud, especially along wave-exposed shorelines not in direct surf (Fretwell, 2016). 
+
+**Trophic Role:** *P. miniata* often hosts polychaete worms on its underside (Harbo, 2011). It is an omnivore and a scavenger, feeding on other sea stars, tunicates, and algae, as well as decaying animals. It digests food externally by extending its stomach out of its mouth. (Georgia Aquarium, 2020). Its predators are molluscs, crustaceans, and other sea stars, and it has a chemical defense against predation (Ervin, 2000). 
+
+**Reproduction:** *P. miniata* is capable of asexual reproduction, through fission, and sexual reproduction. They reproduce sexually by discharging gametes all year, but especially during late winter and spring. Fertilization occurs externally, and a fertilized egg turns first into a zygote, then a ciliated bipinnaria larva (both of which are motile) before settling and becoming an adult bat star (Ervin, 2000). 
+
+## Questions
+1. Is the sea star smaller than 25 centimeters in length? 
+2. Does the sea star have flat crescent shaped ossicles (the rough calcareous endoskeleton) which can be felt on the outer surface of the star? 
+3. Does the sea star have short rays (arms), in comparison to the central disc, which have webbing between them? 
+
+If the answer to all of these question is YES, then you have identified the *Patiria miniata* (Bat Star)!
+
+## Figures
+
+```{r patiria-miniata-anatomy, fig.align = 'left', out.width = "75%", out.height = "50%", fig.cap = "Overview of  Patiria miniata's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-morph-anatomy.jpg"))
+```
+```{r patiria-ossicles, fig.align = 'left', out.width = "39%", out.height = "27%",fig.cap = "Close up of crescent-shaped ossicles of Patiria miniata. Ps: The internet did not have great photos of this phenomenon.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-ossicles.png"))
+```
+
+```{r oatiria-arms-to-disk, fig.align = 'left', out.width = "60%", out.height = "40%",fig.cap = "Comparison of disk to arm ratio for Patiria miniata.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-arms.png"))
+```
+
+\newpage 
+
+# *Dermasterias imbricata* (Leather Star)
+
+## Description
+*Dermasterias imbricata*, known commonly as the Leather Star, has a smooth leather-like surface, due to the absence of ossicles, and short, broad rays. The Leather star can reach up to 30cm in diameter (from the tip of one arm across to the tip of the opposite one). It typically has five arms, but can have six or seven. Its surface is grey to yellow or red, with patches of red, brown, and purple. Some say it smells like garlic (McFadden et *al.*, 2008). 
+
+**Range and Habitat:** *D. imbricata* can be found from Alaska (US), to Baja California (Mexico), but is more common at higher latitudes (Coles, 2005). It is usually found in the low intertidal zone or subtidally, to depths of 90m (Brietzke & Starzomski, 2013). The leather star lives mostly on rocks, but can also live on sand or mud. It also prefers sheltered areas to high sun exposure. 
+
+**Trophic Role:** *D. imbricata* feeds mainly on sea anemones, but also on closely related sea cucumbers and urchins as well as sea sponges, chiton and other invertebrates (Oregon Coast Aquarium, n.d.). While it prefers sea anemones, most specifically *Anthopleura elegantissima* and *A. xanthogrammica*, its prey choice depends on the species present on the intertidal (Annett & Pierotti, 1984). *D. imbricata* swallows its prey and digest them internally, contrarily to other sea stars that are capable of eversion (Brietzke & Starzomski, 2013). Similar to other star species, they don’t have many predators. Sea otters may prey upon them if no other preferred prey is present. It’s garlic “smell” is also used as a protection from predators.
+
+**Reproduction:** *D. imbricata* is capable of reproducing both asexually, through fission, and sexually (Vic High Marine, n.d.). For sexual reproduction, fertilization occurs externally through spawning, which happens from April to August  (Coles, 2005). Eggs, usually yellow in colour, are fertilized in the water column and develop into a larva. The pelagic bipinnaria larvae eventually settle down onto the substrate to grow into juveniles.
+
+\newpage 
+
+## Questions
+1. Does the sea star have short and broad arms relative to their central disc?
+2. Is the sea star smooth to the touch or lack ossicles on its outer surface (can be felt or seen from distance)?
+3. Does the sea star have the scent of garlic? 
+
+If the answer to all of these question is YES, then you have identified the *Dermasterias imbricata* (Leather Star)!
+
+## Figures
+
+```{r dermasterias-morph, fig.align = 'left', out.width = "36%", out.height = "30%", fig.cap = "Dermasterias imbricata's smooth and leathery texture, with no ossicles.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-morph.png"))
+```
+
+```{r dermasterias-arms-to-disk, fig.align = 'left', out.width = "40%", out.height = "30%",fig.cap = "Comparison of disk to arm ratio for ermasterias imbricata.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-arms.png"))
+```
+```{r dermasterias-anatomy, fig.align = 'left', out.width = "75%", out.height = "50%", fig.cap = "Overview of Dermasterias imbricata's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-morphs.jpg"))
+```
+
+\newpage 
+
+# Supplemental Information
+
+```{r, echo = FALSE, fig.cap= "Displays key organismal traits and characteristics of four species of sea stars found along the west coast of North America.", message = FALSE, out.width = "50%", out.height = "50%"}
+# load the packages
+library(kableExtra)
+library(knitr)
+library(tidyverse)
+library(here)
+
+# read data
+sea_star_summary = read_csv(here("./data/sea-star-summary-vf1.csv"))
+
+# check it's in data.frame() from not just tbl form
+sea_star_summary=data.frame(sea_star_summary)
+
+# write custom function to display the table how we want
+knit_table = function(df){
+  df = data.frame(apply(df, function(x){gsub("<br>", "\n", x)}),
+    stringsAsFactors = FALSE)
+  
+  
+  df %>% 
+    mutateall(linebreak) %>% 
+    kable("latex", 
+          booktabs = TRUE, 
+          escape = FALSE, 
+          longtable = TRUE) %>% 
+    kable_styling(latex_options = "scale_down", 
+                  full_width = FALSE,) %>% 
+    column_spec(1, width = "5em") %>% 
+    column_spec(2, width = "5em") %>% 
+    column_spec(3, width = "5em") %>% 
+    column_spec(4, width = "5em") %>% 
+    column_spec(5, width = "5em") %>% 
+    column_spec(7, width = "20em") 
+}
+
+knit_table = function(df){
+    df = data.frame(lapply(df, function(x) {gsub("<br>", "\n", x)}), stringsAsFactors = F)
+
+  df %>% 
+    mutate_all(linebreak) %>% 
+    kable("latex", 
+          booktabs = TRUE, 
+          escape = FALSE, 
+          longtable = FALSE) %>% 
+    kable_styling(latex_options = "scale_down", 
+                  full_width = FALSE)  %>% 
+    column_spec(1, width = "5em") %>% 
+    column_spec(2, width = "10em") %>% 
+    column_spec(3, width = "15em") %>% 
+    column_spec(4, width = "15em") %>% 
+    column_spec(5, width = "15em")
+}
+
+knit_table(sea_star_summary)
+```
+
+## Figures
+```{r}
+sea_star_data = read_csv(here("./data/sea-star-morph-modified.csv"))
+```
+
+```{r, echo = FALSE, fig.cap= "Ratio of total diameter (arm to arm) to disk diameter. Dimension measured with calipers for Pisaster ochraceus. Data for other Asteroidea species provided from a historical dataset.", message = FALSE, out.width = "100%", out.height = "100%"}
+
+sea_star_data = read_csv(here("./data/sea-star-morph-modified.csv"))
+sea_star_plot = ggplot(data = sea_star_data) +
+  geom_boxplot(aes(x = species, y = total_dia_disk_dia_ratio, fill = species), 
+             colour = "black", 
+             size = 1, 
+             shape = 25) +
+  theme_bw() +
+  labs(x = "Species", y = "Total diameter : Disk diameter ratio", title = "Ratio of total diameter to disk diameter")
+sea_star_plot
+```
+
+\newpage 
+
+# References 
+Annett, C., & Pierotti, R. (1984). Foraging behavior and prey selection of the leather seastar Dermasterias imbricata. *Marine Ecology Progress Series*, *14*(2/3), 197–206. http://www.jstor.org/stable/44634729.
+
+Brietzke, C., & Starzomski, B. (2013). *Leather star, garlic star - Dermasterias imbricata*. Retrieved from https://www.centralcoastbiodiversity.org/leather-star-bull-dermasterias-imbricata.html. 
+
+Brietzke, C., Fretwell, K., & Starzomski, B. (2013). *Ochre star, purple star, common sea star - Pisaster ochraceus*. Retrieved from https://www.centralcoastbiodiversity.org/ochre-star-bull-pisaster-ochraceus.html. 
+
+Cowles, D. (2005). *Dermasterias imbricata (Grube, 1857)*. Retrieved from https://inverts.wallawalla.edu/Echinodermata/Class%20Asteroidea/Dermasterias_imbricata.html. 
+
+Cowles, D. (2005). *Mottled star - Evasterias troschelii*. Biodiversity of the Central Coast. Retrieved October 17, 2021, from https://www.centralcoastbiodiversity.org/mottled-star-bull-evasterias-troschelii.html. 
+
+Cowles, D. (2005). *Patiria miniata (Brandt, 1835)*. Retrieved from https://inverts.wallawalla.edu/Echinodermata/Class%20Asteroidea/Asterina_miniata.html.  
+
+Cowles, D. (2019). *Evasterias troschelii* showing common colour and ossicle pattern. [Photograph]. Retrieved from https://inverts.wallawalla.edu/Echinodermata/Class%20Asteroidea/Evasterias_troschelii.html.
+
+Cowles, D. 2010. Patiria miniata showing ossicles. [Photograph]. Retrieved from https://inverts.wallawalla.edu/Echinodermata/Class%20Asteroidea/Asterina_miniata.html. 
+
+Elliott, L. (2011). Mottled sea star - *Evasterias troschelii*. [Photograph] Retrieved from https://www.flickr.com/photos/25980517@N03/5994024555 
+
+Ervin, J. (2000). 
+*Patiria miniata*. Animal Diversity Web. Retrieved October 17, 2021, from https://animaldiversity.org/accounts/Patiria_miniata/. 
+
+Fretwell, K. (2016). *Bat Star - Asterina Miniata*. Biodiversity of the Central Coast. Retrieved from https://www.centralcoastbiodiversity.org/bat-star-bull-asterina-miniata.html.
+
+Georgia Aquarium (2020). *Bat* Star. Retrieved October 17, 2021, from https://www.georgiaaquarium.org/animal/bat-star/#:~:text=Diet%20%2F%20Feeding,and%20digests%20its%20food%20externally. 
+
+Harbo, R. M. (2011). *Whelks to whales: Coastal Marine Life of the Pacific Northwest*. Harbour Pub. 
+
+Klinkenberg, B. (2021). Evasterias troschelii (Stimpson, 1862). E-Fauna BC: Electronic atlas of the wildlife of British Columbia. Retrieved October 17, 2021, from http://linnet.geog.ubc.ca/efauna/Atlas/Atlas.aspx?sciname=Evasterias+troschelii.  
+
+Mackenzie, C. (n.d.) Evasterias troschelii. [Photograph]. Retrieved from https://www.centralcoastbiodiversity.org/mottled-star-bull-evasterias-troschelii.html. 
+
+McFadden, M., Helmsteler, H., & Cowles, D. (2008). *Pisaster ochraceus (Brandt, 1835)*. Retrieved from https://inverts.wallawalla.edu/Echinodermata/Class%20Asteroidea/Pisaster_ochraceus.html. 
+
+Monaco, C. J., Wethey, D. S., & Helmuth, B. (2014). A dynamic energy budget (DEB) model for the keystone predator *Pisaster ochraceus*. *PLoS One*, *9*(8). doi:http://dx.doi.org/10.1371/journal.pone.0104658. 
+
+Multi-Agency Rocky Intertidal Network (2021). *Pisaster (Ochre Star)*. Retrieved from https://marine.ucsc.edu/target/target-species-pisaster.html. 
+
+Ocean Watch B.C. Coast Edition (2018). *Sea Star Wasting*. Retrieved from https://oceanwatch.ca/bccoast/species-habitats/sea-star-wasting/?doing_wp_cron=1634426450.2741999626159667968750.  
+
+Oregon Coast Aquarium (n.d.) *Leather Star*. Retrieved from https://aquarium.org/animals/leather-star/. 
+
+Starzomski, B. (n.d.) Leather star. [Photograph]. Retrieved from https://www.centralcoastbiodiversity.org/leather-star-bull-dermasterias-imbricata.html 
+Vic High Marine (n.d.) *Echinoderms: Leather Star*. Retrieved from https://www.vichighmarine.ca/leather-star/. 
+
+Watanabe, J. (n.d.) Patiria miniata ossicles. [Photograph]. Retrieved from https://seanet.stanford.edu/Echinoderms  
+
+Wolf, R. 2005. Bat Star (Patiria miniata, prev. Asterina miniata). Fitzgerald Marine Reserve. Moss Beach, San Mateo Co., Calif.[Photograph]. Retrieved from https://www.flickr.com/photos/rwolf/22773839631 

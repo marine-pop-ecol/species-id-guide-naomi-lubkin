@@ -1,0 +1,871 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.16)  17 OCT 2021 18:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sea-star-species-ID.tex
+(./sea-star-species-ID.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-12> (/Users/joanmoreaux/Library/TinyTeX/texmf-dis
+t/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen139
+)) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks18
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks19
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.st
+y
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.st
+y
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.
+sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.st
+y
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen148
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-lang
+patches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.st
+y
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.st
+y
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count270
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count271
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen149
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count272
+\Field@Width=\dimen150
+\Fld@charsize=\dimen151
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfi
+lecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 35.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks25
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.s
+ty
+Package: fancyvrb 2021/10/15 v3.9 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count281
+\FV@InFile=\read2
+\FV@TabBox=\box52
+\c@FancyVerbLine=\count282
+\FV@StepNumber=\count283
+\FV@OutFile=\write3
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen160
+\fb@frh=\dimen161
+\FrameRule=\dimen162
+\FrameSep=\dimen163
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.st
+y
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/grffile/grffile.sty
+Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
+y)
+Package grffile Info: This package is an empty stub for compatibility on input 
+line 40.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen166
+\captionmargin@=\dimen167
+\captionwidth=\dimen168
+\caption@tempdima=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+Package caption Info: hyperref package is loaded.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.st
+y
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen173
+\lightrulewidth=\dimen174
+\cmidrulewidth=\dimen175
+\belowrulesep=\dimen176
+\belowbottomsep=\dimen177
+\aboverulesep=\dimen178
+\abovetopsep=\dimen179
+\cmidrulesep=\dimen180
+\cmidrulekern=\dimen181
+\defaultaddspace=\dimen182
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen183
+\@belowrulesep=\dimen184
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen185
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count290
+\LTcapwidth=\dimen186
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count291
+\LT@rows=\count292
+\c@LT@tables=\count293
+\c@LT@chunks=\count294
+\LT@p@ftn=\toks26
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box58
+\extrarowheight=\dimen188
+\NC@list=\toks27
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box59
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count295
+\multirow@dima=\skip61
+\bigstrutjot=\dimen189
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen190
+\WF@size=\dimen191
+\c@WF@wrappedlines=\count296
+\WF@box=\box60
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count297
+\float@exts=\toks29
+\float@box=\box61
+\@float@everytoks=\toks30
+\@floatcapt=\box62
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.st
+y
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks31
+\minrowclearance=\skip62
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.st
+y
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box63
+\sift@deathcycles=\count298
+\@vwid@loff=\dimen192
+\@vwid@roff=\dimen193
+)
+\c@taburow=\count299
+\tabu@nbcols=\count300
+\tabu@cnt=\count301
+\tabu@Xcol=\count302
+\tabu@alloc=\count303
+\tabu@nested=\count304
+\tabu@target=\dimen194
+\tabu@spreadtarget=\dimen195
+\tabu@naturalX=\dimen196
+\tabucolX=\dimen197
+\tabu@Xsum=\dimen198
+\extrarowdepth=\dimen199
+\abovetabulinesep=\dimen256
+\belowtabulinesep=\dimen257
+\tabustrutrule=\dimen258
+\tabu@thebody=\toks32
+\tabu@footnotes=\toks33
+\tabu@box=\box64
+\tabu@arstrutbox=\box65
+\tabu@hleads=\box66
+\tabu@vleads=\box67
+\tabu@cellskip=\skip63
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/threeparttable/threepa
+rttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box68
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/threeparttablex/threep
+arttablex.sty
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.
+sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip64
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box69
+\UL@hyphenbox=\box70
+\UL@skip=\skip65
+\UL@hook=\toks34
+\UL@height=\dimen259
+\UL@pe=\count305
+\UL@pixel=\dimen260
+\ULC@box=\box71
+Package: ulem 2019/11/18
+\ULdepth=\dimen261
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/makecell/makecell.st
+y
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen262
+\c@nlinenum=\count306
+\TeXr@lab=\toks35
+) (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-10-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box72
+) (./sea-star-species-ID.aux)
+\openout1 = `sea-star-species-ID.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+Package hyperref Info: Link coloring OFF on input line 126.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count308
+)
+LaTeX Info: Redefining \ref on input line 126.
+LaTeX Info: Redefining \pageref on input line 126.
+LaTeX Info: Redefining \nameref on input line 126.
+(./sea-star-species-ID.out) (./sea-star-species-ID.out)
+\@outlinefile=\write4
+\openout4 = `sea-star-species-ID.out'.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+28.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+28.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+128.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+128.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 128.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 128.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 128.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128
+.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128
+.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/Users/joanmoreaux/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
+p}]
+</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-anato
+my.png, id=98, 830.10126pt x 400.49625pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-
+anatomy.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-a
+natomy.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+isaster-morphology-anatomy.png  used on input line 202.
+(pdftex.def)             Requested size: 399.29272pt x 192.64545pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.png, id
+=100, 416.55624pt x 392.46625pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.pn
+g Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.png
+>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+isaster-ossicles.png  used on input line 209.
+(pdftex.def)             Requested size: 207.11443pt x 195.13672pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png, id=101
+, 539.01375pt x 578.16pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png Gr
+aphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+isaster-arms.png  used on input line 216.
+(pdftex.def)             Requested size: 181.91339pt x 195.12498pt.
+[2 </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-an
+atomy.png> </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossic
+les.png>] [3 </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arm
+s.png>]
+</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jpg, i
+d=124, 1026.83624pt x 1289.81876pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.j
+pg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jp
+g>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
+vasterias-anatomy.jpg  used on input line 287.
+(pdftex.def)             Requested size: 310.68552pt x 390.25502pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-compa
+rison.png, id=125, 783.92876pt x 315.1775pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-
+comparison.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-c
+omparison.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
+vasterias-ossicles-comparison.png  used on input line 294.
+(pdftex.def)             Requested size: 352.3221pt x 141.65062pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png, id=1
+26, 508.90125pt x 392.46625pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png 
+Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
+vasterias-arms.png  used on input line 301.
+(pdftex.def)             Requested size: 168.67561pt x 130.08316pt.
+[4 </Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jpg
+>] [5 </Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles
+-comparison.png> </Users/joanmoreaux/Github/species-id-starfish/images/evasteri
+as-arms.png>]
+</Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy.jpg
+, id=144, 1396.21625pt x 995.72pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatom
+y.jpg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy
+.jpg>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+atiria-morph-anatomy.jpg  used on input line 373.
+(pdftex.def)             Requested size: 352.3128pt x 251.25398pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png, id=
+145, 409.53pt x 347.2975pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png
+ Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png>
+
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+atiria-ossicles.png  used on input line 379.
+(pdftex.def)             Requested size: 183.20572pt x 155.36565pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png, id=146,
+ 475.7775pt x 389.455pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png Gra
+phic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
+atiria-arms.png  used on input line 386.
+(pdftex.def)             Requested size: 281.86784pt x 230.72726pt.
+[6 </Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy.
+jpg> </Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png
+>] [7 </Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png>]
+</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.png, i
+d=168, 256.96pt x 226.8475pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.p
+ng Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.pn
+g>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
+ermasterias-morph.png  used on input line 462.
+(pdftex.def)             Requested size: 169.11577pt x 149.29752pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png, id
+=169, 362.35374pt x 299.1175pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.pn
+g Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png
+>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
+ermasterias-arms.png  used on input line 469.
+(pdftex.def)             Requested size: 187.89977pt x 155.10838pt.
+</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.jpg, 
+id=170, 1363.0925pt x 1163.34625pt>
+File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.
+jpg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.j
+pg>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
+ermasterias-morphs.jpg  used on input line 475.
+(pdftex.def)             Requested size: 352.31578pt x 300.68777pt.
+[8 </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.png
+> </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 497.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 497.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 497.
+
+Overfull \hbox (7.25009pt too wide) in paragraph at lines 497--497
+[]|\T1/lmr/m/n/10 Dermasterias 
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 503.
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
+04.
+(/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 505.
+
+Package xcolor Warning: Incompatible color definition on input line 507.
+
+
+Package xcolor Warning: Incompatible color definition on input line 507.
+
+<sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf, id=184, 469.755p
+t x 325.215pt>
+File: sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file
+ (type pdf)
+<use sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: sea-star-species-ID_files/figure-latex/unnamed-chunk-3
+-1.pdf  used on input line 527.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[9 </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.jp
+g>] [10] [11 <./sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf>]
+Underfull \hbox (badness 1052) in paragraph at lines 559--562
+\T1/lmr/m/n/10 Re-trieved from []$https : / / inverts . wallawalla . edu / Echi
+nodermata / Class % 20Asteroidea / Evasterias _ troschelii .
+ []
+
+
+Overfull \hbox (8.9126pt too wide) in paragraph at lines 591--594
+[]\T1/lmr/m/n/10 Mackenzie, C. (n.d.) Ev-as-te-rias trosche-lii. [Pho-to-graph]
+. Re-trieved from []$https : / / www . centralcoastbiodiversity .
+ []
+
+[12] [13] (./sea-star-species-ID.aux)
+Package rerunfilecheck Info: File `sea-star-species-ID.out' has not changed.
+(rerunfilecheck)             Checksum: 28F1EE695BDEBC62A7BCBC8895FEC8B9;2454.
+ ) 
+Here is how much of TeX's memory you used:
+ 13605 strings out of 480559
+ 215559 string characters out of 5902114
+ 523665 words of memory out of 5000000
+ 30875 multiletter control sequences out of 15000+600000
+ 463985 words of font info for 72 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 60i,12n,66p,811b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<
+/Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb>
+</Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
+></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx9.pfb
+></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.p
+fb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.p
+fb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.p
+fb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.p
+fb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.
+pfb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10
+.pfb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt1
+0.pfb>
+Output written on sea-star-species-ID.pdf (13 pages, 15476767 bytes).
+PDF statistics:
+ 320 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+
